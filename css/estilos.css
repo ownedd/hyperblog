@@ -55,3 +55,7 @@ body {
   text-align: center;
   padding: 0.5em;
 }
+
+p > img {
+  width: 100%;
+}
