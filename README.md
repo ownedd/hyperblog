@@ -12,5 +12,6 @@ Un blog increible para el curso de git y github
 - Flujo de trabajo
 - Buenas practicas
 - Etc
+- Creado por platzi
 
 Recordar **Este readme.md es un chiste**. [Ver el curso](https://github.com/freddier/hyperblog)
