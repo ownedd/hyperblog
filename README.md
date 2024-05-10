@@ -13,5 +13,6 @@ Un blog increible para el curso de git y github
 - Buenas practicas
 - Etc
 - Creado por platzi
+- Inculye ejemplos en Windows, Linux y Mac
 
 Recordar **Este readme.md es un chiste**. [Ver el curso](https://github.com/freddier/hyperblog)
